@@ -5123,7 +5123,7 @@ Game.Launch=function()
 		new Game.Achievement('Gushing grannies','Make <b>10,000,000,000,000,000,000</b> cookies just from grandmas.',[1,0]);
 		order=1220;
 		new Game.Achievement('I hate manure','Make <b>10,000,000,000,000</b> cookies just from farms.',[2,0]);
-		order=1320;
+		order=1321;
 		new Game.Achievement('The incredible machine','Make <b>100,000,000,000,000</b> cookies just from factories.',[4,0]);
 		order=1420;
 		new Game.Achievement('Never dig down','Make <b>1,000,000,000,000,000</b> cookies just from mines.',[3,0]);
